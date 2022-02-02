@@ -6,6 +6,7 @@ This is an ansible utility image
 | Packages |
 | ------- |
 | ansible |
+| git |
 | openshift |
 | pyOpenSSL |
 | passlib |
